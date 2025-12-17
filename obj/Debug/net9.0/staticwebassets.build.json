@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "9VTkB0Fwg8xqqsHzWsAODFqAnECD3JG8jlvqVdIjdYU=",
+  "Source": "DevOpsWebApi",
+  "BasePath": "_content/DevOpsWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
